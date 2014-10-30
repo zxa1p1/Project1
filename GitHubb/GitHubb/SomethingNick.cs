@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace GitHubb
 {
-    class Program
+    class SomethingNick
     {
-        static void Main(string[] args)
-        {
+        private int _age = 22;
+        public int Age { get; set; }
 
+        public SomethingNick(int age)
+        {
+            _age = age;
         }
     }
 }

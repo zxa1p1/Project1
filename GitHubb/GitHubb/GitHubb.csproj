@@ -41,10 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="DickButt.cs" />
+=======
+    <Compile Include="Alibaba.cs" />
+>>>>>>> origin/master
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Something.cs" />
+    <Compile Include="SomethingNick.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

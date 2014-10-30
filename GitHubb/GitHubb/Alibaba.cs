@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubb
 {
-    class Program
+    class Alibaba
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
