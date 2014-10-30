@@ -8,12 +8,16 @@ namespace GitHubb
 {
     class SomethingNick
     {
-        private int _age = 22;
-        public int Age { get; set; }
+        private int _age;
 
         public SomethingNick(int age)
         {
             _age = age;
+        }
+
+        public int GetAge()
+        {
+            return _age;
         }
     }
 }

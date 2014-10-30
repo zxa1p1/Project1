@@ -10,7 +10,6 @@ namespace GitHubb
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
